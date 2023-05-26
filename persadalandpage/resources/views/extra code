@@ -1,0 +1,14 @@
+<div class="p-2 sm:w-1/2 w-full">
+    <div class="flex-grow sm:text-left text-center mt-2 sm:mt-0">
+        <div class="rounded flex p-4 h-full items-center">
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                stroke-width="3" class="text-green-500 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
+                <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
+                <path d="M22 4L12 14.01l-3-3"></path>
+            </svg>
+            <span class="title-font font-medium">Mengurangkan Bau Badan</span>
+        </div>
+        <p class="leading-relaxed text-base pl-12">Serai mengandungi citral yang bersifat aromatik, sangat bagus untuk mengelakkan bau badan.
+            Ia juga mempunyai ciri-ciri anti-mikrob dan anti-bakteria yang membantu mengawal pengeluaran peluh secara berlebihan dan memusnahkan serta menghalang mikro-organisma yang menyebabkan bau badan.</p>
+    </div>
+</div>
